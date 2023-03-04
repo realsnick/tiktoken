@@ -40,3 +40,6 @@ htmlcov
 
 Cargo.lock
 target/
+
+#direnv
+.direnv
